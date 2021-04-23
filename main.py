@@ -30,4 +30,4 @@ list_cube_numbers=[]
 list_cube_numbers = [n**3 for n in list_100]
 print(list_cube_numbers)
 print("koniec zadania!-spr komunikatu")
-print(123)
+print("koniec")
