@@ -29,3 +29,4 @@ print(list_divided_by_5)
 list_cube_numbers=[]
 list_cube_numbers = [n**3 for n in list_100]
 print(list_cube_numbers)
+print("koniec")
